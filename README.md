@@ -1,5 +1,4 @@
 # Indian Food Image Classification using Deep Learning
-
 ## Abstract
 
 This study presents a deep learning-based approach for the classification of Indian food images, addressing the challenges posed by high intra-class variability and inter-class similarity in food recognition tasks. The proposed system leverages convolutional neural networks and data-driven learning techniques to accurately identify diverse categories of Indian cuisine. The model is evaluated using standard performance metrics, demonstrating its effectiveness in real-world applications such as dietary monitoring, automated food recognition, and intelligent recommendation systems.
