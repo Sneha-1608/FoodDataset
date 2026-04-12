@@ -1,7 +1,7 @@
 # Indian Cuisine Classification Framework — A Culturally Contextualized Image Dataset for Statistical Learning Education
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Dataset](https://img.shields.io/badge/Dataset-Google%20Drive-green.svg)](https://drive.google.com/file/d/1aEPoatOrExLkaM6NuZG0QOFyilLbUcR9/view?usp=sharing)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19543423.svg)](https://doi.org/10.5281/zenodo.19543423)
 [![Notebook](https://img.shields.io/badge/Code-Jupyter%20Notebook-orange.svg)](foodclassification.ipynb)
 
 ---
@@ -11,7 +11,7 @@
 | Name | Role |
 |---|---|
 | **Dr. Swati Shinde** | Mentor / Supervisor |
-| **Sneha Attarde** | Lead Researcher |
+| **Sneha Attarde** | Researcher |
 | **Khushi Dudhalkar** | Researcher |
 | **Ritul Aloorkar** | Researcher |
 
@@ -37,18 +37,23 @@ The dataset consists of labeled images representing various Indian food categori
 
 ### Dataset Access
 
-> [Download Dataset (Google Drive)](https://drive.google.com/file/d/1aEPoatOrExLkaM6NuZG0QOFyilLbUcR9/view?usp=sharing)
-
-> ⚠️ **Note for Reviewers:** A permanent DOI via Zenodo or OSF will be provided upon acceptance to comply with JSDSE reproducibility requirements.
+> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19543423.svg)](https://doi.org/10.5281/zenodo.19543423)
+>
+> **Permanent DOI:** [https://doi.org/10.5281/zenodo.19543423](https://doi.org/10.5281/zenodo.19543423)
+>
+> **Direct Download:** [Compressed_dataset.zip (63.9 MB)](https://zenodo.org/records/19543423/files/Compressed_dataset.zip?download=1)
 
 ### Dataset Characteristics
 
 | Property | Details |
 |---|---|
 | Domain | Indian Cuisine |
-| Format | Labeled image files |
-| Variability | Lighting, background, presentation style |
-| Intended Use | Statistical learning education, image classification research |
+| Images | 4,577 RGB images |
+| Classes | 100 regional Indian food categories |
+| Format | Labeled image files (.zip) |
+| Size | 63.9 MB |
+| Hosted on | Zenodo (permanent DOI) |
+| License | CC BY 4.0 |
 
 ---
 
@@ -146,7 +151,7 @@ jupyter notebook foodclassification.ipynb
 
 If you use this dataset or codebase in your research, please cite:
 
-> Shinde, Swati, Attarde, Sneha, Dudhalkar, Khushi, and Aloorkar, Ritul (2026), "Indian Cuisine Classification Framework — A Culturally Contextualized Image Dataset for Statistical Learning Education," *Journal of Statistics and Data Science Education*. [Under Review]
+> Shinde, Swati, Attarde, Sneha, Dudhalkar, Khushi, and Aloorkar, Ritul (2026), "Indian Cuisine Classification Framework — A Culturally Contextualized Image Dataset for Statistical Learning Education," *Journal of Statistics and Data Science Education*. [Under Review] DOI: [10.5281/zenodo.19543423](https://doi.org/10.5281/zenodo.19543423)
 
 **BibTeX:**
 ```bibtex
@@ -155,6 +160,8 @@ If you use this dataset or codebase in your research, please cite:
   title   = {Indian Cuisine Classification Framework --- A Culturally Contextualized Image Dataset for Statistical Learning Education},
   journal = {Journal of Statistics and Data Science Education},
   year    = {2026},
+  doi     = {10.5281/zenodo.19543423},
+  url     = {https://doi.org/10.5281/zenodo.19543423},
   note    = {Under Review}
 }
 ```
