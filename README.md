@@ -11,7 +11,7 @@
 | Name | Role |
 |---|---|
 | **Dr. Swati Shinde** | Mentor / Supervisor |
-| **Sneha Attarde** | Researcher |
+| **Sneha Attarde** | Lead Researcher |
 | **Khushi Dudhalkar** | Researcher |
 | **Ritul Aloorkar** | Researcher |
 
@@ -146,12 +146,12 @@ jupyter notebook foodclassification.ipynb
 
 If you use this dataset or codebase in your research, please cite:
 
-> Shinde Swati, Attarde Sneha, Dudhalkar Khushi, and Aloorkar Ritul (2026), "Indian Cuisine Classification Framework — A Culturally Contextualized Image Dataset for Statistical Learning Education," *Journal of Statistics and Data Science Education*. [Under Review]
+> Shinde, Swati, Attarde, Sneha, Dudhalkar, Khushi, and Aloorkar, Ritul (2026), "Indian Cuisine Classification Framework — A Culturally Contextualized Image Dataset for Statistical Learning Education," *Journal of Statistics and Data Science Education*. [Under Review]
 
 **BibTeX:**
 ```bibtex
 @article{shinde2026indianfood,
-  author  = {Shinde Swati, and Attarde Sneha, and Dudhalkar Khushi and, Aloorkar Ritul},
+  author  = {Shinde, Swati and Attarde, Sneha and Dudhalkar, Khushi and Aloorkar, Ritul},
   title   = {Indian Cuisine Classification Framework --- A Culturally Contextualized Image Dataset for Statistical Learning Education},
   journal = {Journal of Statistics and Data Science Education},
   year    = {2026},
