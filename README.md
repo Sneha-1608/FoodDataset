@@ -4,15 +4,10 @@ Materials supporting the manuscript *Indian Cuisine Classification Framework —
 Culturally Contextualized Image Dataset for Statistical Learning Education*,
 submitted to the **Journal of Statistics and Data Science Education**.
 
-**Authors:** Swati Shinde, Sneha Attarde, Khushi Dudhalkar, and Ritul Aloorkar
-Department of Computer Engineering, Pimpri Chinchwad College of Engineering, Pune, India
-
-**Archived release:** https://doi.org/10.5281/zenodo.19543423
-
-A 100-class dataset of Indian food photographs, built for teaching statistical
-learning rather than for benchmarking, together with four classroom-ready lesson plans
-covering stratified splitting, the bias–variance trade-off, multiclass evaluation, and
-data augmentation as regularization.
+This repository is **anonymized for double-anonymous peer review**. Author names and
+institutional affiliations have been removed from every file, filename, and notebook
+output. A permanently archived, de-anonymized version with a DOI will replace this one
+on acceptance.
 
 ---
 
@@ -119,8 +114,8 @@ space.
 ## 5. About the Dataset
 
 - **4,577 images** across **100 Indian dish classes**
-- Mean class size approximately 45.8 images; the smallest class holds 7 images and the
-  largest 83, a ratio of nearly 12:1
+- Median class size 50 images (interquartile range 35–57); the smallest class holds
+  7 images and the largest 83
 - Split 70/15/15 into training, validation, and test sets, stratified by class with a
   fixed random seed
 - Images resized to 224 × 224 pixels
@@ -156,13 +151,4 @@ use. Instructors are welcome to adapt the lesson plans, extend the dataset with
 additional dishes or additional cuisines, and translate the materials. The
 one-directory-per-class layout is designed to make extension straightforward.
 
-If you use these materials, please cite the archived release:
-
-> Shinde, S., Attarde, S., Dudhalkar, K., and Aloorkar, R. (2026), *Indian Food Image
-> Dataset: A Culturally Contextualized Image Dataset for Statistical Learning
-> Education* [Data set], Zenodo. https://doi.org/10.5281/zenodo.19543423
-
-## 8. Contact
-
-Questions, corrections, and contributions are welcome. Please open an issue on this
-repository, or contact the corresponding author.
+Citation details will be added on acceptance.
